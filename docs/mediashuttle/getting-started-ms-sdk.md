@@ -13,7 +13,7 @@ The Media Shuttle SDK is provided as an [npm package](https://www.npmjs.com/pack
 To install it into an existing project, run the following command:
 
 ```bash
-> npm install `@signiant/media-shuttle-sdk`
+> npm install @signiant/media-shuttle-sdk
 ```
 
 To use the Media Shuttle SDK, Node.js version 16 or higher is required. For more information about updating your development environment, see the [npm documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
